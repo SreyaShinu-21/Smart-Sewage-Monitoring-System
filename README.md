@@ -1,11 +1,5 @@
 # 🚰 Smart Sewage Monitoring System
 
-An **IoT-enabled, real-time sewage monitoring system** using threshold-based anomaly detection, GSM alerts, and cloud visualization via the Blynk IoT platform — as described in the IEEE paper:
-
-> *"An IoT-Enabled Smart Sewage System for Real-Time Detection and Machine Learning-Based Prediction"*  
-> T. Vijayakumar, Logesh K, S Dhivya Shree, Sakthi Dharshini C, Sharan M S, Sreya Shinu  
-> Department of Information Technology, Dr. N.G.P. Institute of Technology, Coimbatore, India
-
 ---
 
 ## 📊 System Performance
@@ -209,19 +203,3 @@ All models trained on sewage parameters: **pH, Temperature, Turbidity, COD, BOD,
 - Integration with smart city infrastructure APIs
 
 ---
-
-## 📄 Citation
-
-If you use this work, please cite:
-
-```
-T. Vijayakumar et al., "An IoT-Enabled Smart Sewage System for Real-Time Detection 
-and Machine Learning-Based Prediction," IEEE, 2024.
-Dr. N.G.P. Institute of Technology, Coimbatore, India.
-```
-
----
-
-## 📜 License
-
-MIT License — see [LICENSE](LICENSE) for details.
